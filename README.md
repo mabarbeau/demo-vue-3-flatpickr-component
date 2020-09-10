@@ -1,5 +1,7 @@
 # demo-vue-3-flatpickr-component
 
+See: https://github.com/ankurk91/vue-flatpickr-component/issues/198#issue-698574272
+
 ## Project setup
 ```
 yarn install
@@ -9,16 +11,3 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
